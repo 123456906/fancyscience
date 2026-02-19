@@ -17,7 +17,7 @@ generator: {
 localizedName: "Astra"
 sectorSize: 2
 sectorSeed: 9
-startSector: 1
+startSector: 15
 parent: sun
 solarSystem: sun
 iconColor: 65c96a
